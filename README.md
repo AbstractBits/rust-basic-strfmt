@@ -1,3 +1,3 @@
 # rust-basic-strfmt
 
-Rust basic string formatting
+Basic string formatting in Rust
